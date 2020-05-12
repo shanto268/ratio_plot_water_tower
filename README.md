@@ -20,4 +20,4 @@ For the suggested constraints [-5m , 5m] the intercept seems to be around 0.58 .
 
 The constraints are defined as the limiting space span of x and y. For example a constraing of [-5 meters to 5 meters] would only take entries the from the square made by the red lines shown below.
 
-!(pic1)[MC2.jpg]
+!(pic5)[MC2.jpg]
