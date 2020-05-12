@@ -6,13 +6,13 @@ Using data from the .txt files, and the Python Codes that can handle constraints
 
 ## Ratio Plots
 
-!(pic)[ratioconstraint1.png]
+!(pic1)[ratioconstraint1.png]
 
-!(pic)[ratioconstraint5.png]
+!(pic2)[ratioconstraint5.png]
 
-!(pic)[ratioconstraint15.png]
+!(pic3)[ratioconstraint15.png]
 
-!(pic)[ratioconstraint18.png]
+!(pic4)[ratioconstraint18.png]
 
 ## Interpretations:
 
